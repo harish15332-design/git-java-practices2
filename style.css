@@ -1,0 +1,14 @@
+*{
+    top: 0;
+    margin: 0;
+}
+nav{
+    height: 55px;
+    width: 100%;
+    display: flex;
+    justify-content: space-between;
+    background-color: red;
+}
+.nav-2{
+    left: 0;
+}
